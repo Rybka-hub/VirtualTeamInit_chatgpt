@@ -40,4 +40,4 @@ Oficjalne materiały do sprawdzenia przy konfiguracji:
 - [Skills in ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
 - [Projects in ChatGPT](https://help.openai.com/en/articles/10169521-projects-in-chatgpt)
 
-Skill nie narzuca modelu, abonamentu ani stosu technologii. Nie zawiera specyfikacji i uprawnień repo RybCode.
+Skill nie narzuca modelu, abonamentu ani stosu technologii.
