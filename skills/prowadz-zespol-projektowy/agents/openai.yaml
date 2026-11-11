@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zespół projektowy"
+  short_description: "PM i specjaliści w ChatGPT, wykonanie w Codexie"
+  default_prompt: "Użyj $prowadz-zespol-projektowy, aby rozpocząć projekt i poprowadzić mnie jako PM."
+policy:
+  allow_implicit_invocation: true
