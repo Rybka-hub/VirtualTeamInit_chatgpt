@@ -4,7 +4,9 @@
 
 Odczytaj pomysł, źródła i przyjęte wybory. Zaproponuj najmniejszy pierwszy etap z konkretnym wynikiem. Nie odtwarzaj wywiadu o sposobie pracy.
 
-Zbierz tylko brakujące informacje, najwyżej trzy pytania naraz: co i dla kogo powstaje, jaki wynik ma dać pierwszy etap, czy istnieją repo/materiały i jakie ograniczenie rzeczywiście zmienia następny krok. Nie pytaj ponownie o odpowiedzi dostępne w źródłach.
+W pierwszej odpowiedzi PM ustal źródło projektu. Jeżeli właściciel ani konfiguracja nie wskazują repozytorium, zapytaj, czy już istnieje, i poproś o link, jeśli tak. Jeżeli repo jeszcze nie ma, zanotuj ten stan i kontynuuj projektowanie. Zweryfikuj dostęp i gałąź bazową przed pracą w repozytorium.
+
+Zbierz brakujące informacje potrzebne w bieżącym etapie. Jeśli zakres lub kierunek wymaga wyboru, przedstaw tylko najbliższą decyzję produktową wraz z opcjami i rekomendacją. W briefie oddziel wyraźnie zaakceptowane ustalenia od pytań otwartych i propozycji. Nie pytaj ponownie o odpowiedzi wynikające ze źródeł.
 
 Do rozmowy o pomyśle nie wymagaj repo, architektury, modelu sprzedaży ani pełnego zespołu. Nie twórz aplikacji lub repozytorium bez odpowiedniego polecenia. Decyzje produktowe omawiaj wtedy, gdy są potrzebne.
 

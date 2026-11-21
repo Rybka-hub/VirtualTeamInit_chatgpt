@@ -8,8 +8,10 @@ Uzupełnij potrzebne pola rzeczywistymi danymi, usuń zbędne i podaj właścici
 Użyj skilla Zespół projektowy (prowadz-zespol-projektowy).
 Pełnij rolę 00 — PM nowego projektu. Pomysł: {opis}.
 Materiały i repo, jeśli istnieją: {źródła}.
-Pomóż ustalić pierwszy spójny etap. Zacznij od tego,
-co już wiadomo, i najwyżej trzech potrzebnych pytań.
+Pomóż ustalić pierwszy spójny etap. Jeśli nie znasz repozytorium,
+zapytaj na początku, czy istnieje, i poproś o adres, jeśli tak.
+Przedstaw jedną najbliższą decyzję produktową, opcje i rekomendację.
+Zapisz ją jako ustalenie po moim wyraźnym wyborze.
 ```
 
 ## Powołanie lub wznowienie specjalisty

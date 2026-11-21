@@ -8,9 +8,9 @@ Nazwa w katalogu Skills: **Zespół projektowy**. Identyfikator: `prowadz-zespol
 
 1. Utwórz projekt ChatGPT i rozmowę Work Cloud, jeżeli funkcja jest dostępna w Twoim środowisku.
 2. Wybierz skill lub napisz: „Użyj skilla Zespół projektowy. Pełnij rolę PM nowego projektu. Mój pomysł to…”.
-3. PM ustala pierwszy spójny etap i zbiera tylko brakujące informacje. Jeśli nie podałeś repo i nie wskazuje go konfiguracja, pyta o właściwy link `owner/repo` oraz zakres dostępu. Nie wybiera repo na podstawie innego projektu.
+3. W pierwszej odpowiedzi PM pyta, czy masz repo, jeśli nie wynika ono z briefu lub ustawień projektu. Jeżeli repo istnieje, PM prosi o adres i weryfikuje dostęp przed pracą w nim.
 4. Gdy repo jeszcze nie istnieje, możecie omawiać pomysł bez zapisu. Utworzenie repo i jego widoczność wymagają właściwego polecenia.
-5. PM przygotowuje krótki tekst do ustawień Projects: cel, źródła, repo i uprawnienia. Nie trzeba przepisywać procedur skilla.
+5. PM przedstawia jedną istotną decyzję produktową naraz, z opcjami i rekomendacją. Zapisuje Twój wybór po wyraźnym zatwierdzeniu. W razie potrzeby przygotowuje krótki tekst do ustawień Projects z celem, źródłami, repozytorium i uprawnieniami.
 6. Potrzebne rozmowy specjalistów uruchamiasz gotowymi promptami PM. Zadania wykonawcze wklejasz do Codexa Local albo Cloud po sprawdzeniu dostępu do materiałów.
 
 ## Zawartość
@@ -33,7 +33,7 @@ Nazwa w katalogu Skills: **Zespół projektowy**. Identyfikator: `prowadz-zespol
 
 Samo zapisanie lub pobranie repo nie instaluje skilla. Instalacja w koncie ChatGPT i lokalne pliki Codexa to osobne mechanizmy. Dostępność oraz synchronizacja zależą od produktu i środowiska; sprawdzaj właściwą listę Skills. Zapis tej kopii nie aktualizuje automatycznie skilla na koncie.
 
-Instrukcje merytoryczne odpowiadają pierwszej zainstalowanej wersji. Metadane UI zawierają nazwę, opis i prompt; pominięto ikonę dodaną automatycznie przez platformę.
+Repozytorium zawiera wersję źródłową instrukcji. Metadane UI zawierają nazwę, opis i prompt. Platforma dodaje ikonę osobno.
 
 Oficjalne materiały do sprawdzenia przy konfiguracji:
 

@@ -32,7 +32,7 @@ Nie czytaj całej paczki przy każdym zadaniu. Zachowaj rolę z promptu; przy ro
 
 ## Prowadź decyzje w rozmowie
 
-Wyjaśnij rzeczywiste opcje i konsekwencje, zarekomenduj rozwiązanie, zadaj najwyżej trzy konkretne pytania naraz i poczekaj na odpowiedzi. Pytaj tylko o brakujące decyzje potrzebne do wyniku. Przy mechanicznym wykonaniu przyjętych ustaleń działaj bez sztucznych pytań.
+Omawiaj jedną istotną decyzję produktową naraz. Przedstaw realne opcje, ich konsekwencje i rekomendację. Poczekaj na wybór właściciela przed rozwijaniem rozwiązań, które od niego zależą. Pytania organizacyjne możesz zadać razem, do trzech krótkich pytań, jeśli są potrzebne do bieżącego etapu. Przy wykonaniu przyjętych ustaleń działaj bez sztucznych pytań.
 
 Kierunek, funkcje, wygląd, wybór technologii i istotne kompromisy omawiaj z właścicielem. Szczegóły wykonania pozostaw wykonawcy w przyjętych granicach. Technologie dobieraj do problemu; nie dodawaj AI, bazy, CMS, hostingu lub monetyzacji przez samą możliwość ich użycia.
 
